@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Carlos A. Fernández Miñope</h1>
-<h3 align="center">Biólogo molecular 🧬, investigador y docente universitario.| Estudio la epidemiología de las enfermedades Infecciosas con herramientas moleculares y bioinformáticas</h3>
+<h3 align="center">Biólogo molecular 🧬, investigador y docente universitario | Estudio la epidemiología de las enfermedades Infecciosas con herramientas moleculares y bioinformáticas</h3>
 
 <p align="left"> <a href="https://twitter.com/carlosfrdez" target="blank"><img src="https://img.shields.io/twitter/follow/carlosfrdez?logo=twitter&style=for-the-badge" alt="carlosfrdez" /></a> </p>
 
@@ -8,6 +8,8 @@
 - 💬 Puedes preguntarme cosas sobre **R** y otras herramientas de análisis de datos
 
 - 📫 Puedes contactarme en **fernandezc4@gmail.com**
+
+- ⚡ Fun fact: Tengo un par de vidas paralelas como músico y escritor. En 2019, alcancé el segundo lugar en la IX temporada de LuchaLibro, el campeonato de improvisación literaria.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
